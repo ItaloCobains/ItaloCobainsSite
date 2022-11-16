@@ -77,7 +77,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:hello@chetanverma.com")
+                        window.open("mailto:italobrandao.contato@gmail.com")
                       }
                     >
                       Resumo
@@ -85,7 +85,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() =>
+                      window.open("mailto:italobrandao.contato@gmail.com")
+                    }
                   >
                     Contato
                   </Button>
@@ -108,7 +110,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() =>
+                      window.open("mailto:italobrandao.contato@gmail.com")
+                    }
                   >
                     Contact
                   </Button>
@@ -145,7 +149,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button
+              onClick={() =>
+                window.open("mailto:italobrandao.contato@gmail.com")
+              }
+            >
               Contato
             </Button>
             {mounted && theme && data.darkMode && (
@@ -174,7 +182,11 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button
+              onClick={() =>
+                window.open("mailto:italobrandao.contato@gmail.com")
+              }
+            >
               Contato
             </Button>
 

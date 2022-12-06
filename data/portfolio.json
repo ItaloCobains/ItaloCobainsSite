@@ -1,1 +1,124 @@
-{"name":"ItaloCobains","headerTaglineOne":" Olá 👋","headerTaglineTwo":" Eu sou Italo","headerTaglineThree":" Desenvolvedor e Curioso","headerTaglineFour":" Moro em Goias, Brasil.","showCursor":false,"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/ItaloCobains"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/italo-brandão-80994020b/"},{"id":"3","title":"Twitter","link":"https://twitter.com/JustItalow"},{"id":"4","title":"Email","link":"mailto:italobrandao.contato@gmail.com"}],"projects":[{"id":"1","title":"Pymon","description":"Pymon é um script para iniciar programas sempre que eles mudam. Inspirado no nodemon.","imageSrc":"https://raw.githubusercontent.com/ItaloCobains/Pymon/main/bb6b49e3ee6028a73a909ee5442cdfc5.jpg","url":"https://github.com/ItaloCobains/Pymon"},{"id":"31f5a558-c924-4ebf-aa96-352b2fa23545","title":"Guide-Assembly-x86","description":"Guia básico de Assembly x86 para iniciantes","imageSrc":"https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png","url":"https://github.com/code-0x100/Guide-Assembly-x86"},{"id":"2f6d58e3-4e0b-4dfb-ac16-4602ad59b5e3","title":"Capivara-Runtime-JavaScript","description":"Criando javascript runtime com base no video do @ErickWendel","imageSrc":"https://raw.githubusercontent.com/ItaloCobains/Capivara-Runtime-JavaScript/main/capivara.jpeg","url":"https://github.com/ItaloCobains/Capivara-Runtime-JavaScript"},{"id":"71cec5fa-e56f-429f-b861-0d64db385397","title":"MERN - GYM","description":"Web app for GymBrothers","imageSrc":"https://raw.githubusercontent.com/ItaloCobains/MERN-Gym-user/main/frontend/public/GYM%20-%20MERN.png","url":"https://github.com/ItaloCobains/MERN-Gym-user"},{"id":"2f065e7f-bac2-4b9a-9b0e-2a9455d7a1c1","title":"Delégua","description":"Delégua é uma variação da Linguagem Égua, patrocinada pela Design Líquido.","imageSrc":"https://raw.githubusercontent.com/DesignLiquido/delegua/principal/recursos/imagens/icone-delegua.png","url":"https://github.com/DesignLiquido/delegua"},{"id":"256f4541-a3a9-4a96-8666-6810c2555a05","title":"Liquido","description":"Conjunto de ferramentas para desenvolvimento de aplicações para a internet 100% em português.","imageSrc":"https://cdn-icons-png.flaticon.com/512/4727/4727231.png","url":"https://github.com/DesignLiquido/liquido"}],"services":[{"id":"e357ab74-59ca-4de1-b8be-9788b9e8a45c","title":"Delégua","description":"Atualmente fazendo contribuições open source para projeto delégua citado a cima."}],"aboutpara":"Meu nome é Italo Brito Brandão, tenho 18 anos e estou nessa área a cerca de 2 anos. Estudei desenvolvimento web por cerca de 1 anos e meio atualmente venho estudando e me adentrando aos conhecimento de ciência da computação. Leio alguns livros como o famoso Clean Code e Programação em baixo nível. Meu foco é crescer tanto em conhecimento profissionalmente faça um network comigo e vamos crescer juntos.","resume":{"tagline":"👋  Eu sou um software engineer.","description":"Eu entreguei experiências e aprendizado para varias pessoas. Bem versado com React, Javascript e a maioria das estruturas da Web.","experiences":[{"id":"1","dates":"Novembro 2022 - Present","type":"4 horas por dia","position":"Software Engineer","bullets":"Implementando novos dialetos."}],"education":{"universityName":"Alura","universityDate":"2022-2022","universityPara":"Aprofundando meus conhecimentos em areas diversas."},"languages":["Javascript","HTML5","CSS","Python","Go","C/C++","Lua"],"frameworks":["React","Typescript","NodeJs","Express","NestJS","NextJS"],"others":["Visual Code","Neovim"]}}
+{
+  "name": "ItaloCobains",
+  "headerTaglineOne": " Olá 👋",
+  "headerTaglineTwo": " Eu sou Italo",
+  "headerTaglineThree": " Desenvolvedor e Curioso",
+  "headerTaglineFour": " Moro em Goias, Brasil.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/ItaloCobains"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/italo-brandão-80994020b/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/JustItalow"
+    },
+    {
+      "id": "4",
+      "title": "Email",
+      "link": "mailto:italobrandao.contato@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Pymon",
+      "description": "Pymon é um script para iniciar programas sempre que eles mudam. Inspirado no nodemon.",
+      "imageSrc": "https://raw.githubusercontent.com/ItaloCobains/Pymon/main/bb6b49e3ee6028a73a909ee5442cdfc5.jpg",
+      "url": "https://github.com/ItaloCobains/Pymon"
+    },
+    {
+      "id": "31f5a558-c924-4ebf-aa96-352b2fa23545",
+      "title": "Guide-Assembly-x86",
+      "description": "Guia básico de Assembly x86 para iniciantes",
+      "imageSrc": "https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png",
+      "url": "https://github.com/code-0x100/Guide-Assembly-x86"
+    },
+    {
+      "id": "2f6d58e3-4e0b-4dfb-ac16-4602ad59b5e3",
+      "title": "Capivara-Runtime-JavaScript",
+      "description": "Criando javascript runtime com base no video do @ErickWendel",
+      "imageSrc": "https://raw.githubusercontent.com/ItaloCobains/Capivara-Runtime-JavaScript/main/capivara.jpeg",
+      "url": "https://github.com/ItaloCobains/Capivara-Runtime-JavaScript"
+    },
+    {
+      "id": "71cec5fa-e56f-429f-b861-0d64db385397",
+      "title": "MERN - GYM",
+      "description": "Web app for GymBrothers",
+      "imageSrc": "https://raw.githubusercontent.com/ItaloCobains/MERN-Gym-user/main/frontend/public/GYM%20-%20MERN.png",
+      "url": "https://github.com/ItaloCobains/MERN-Gym-user"
+    },
+    {
+      "id": "2f065e7f-bac2-4b9a-9b0e-2a9455d7a1c1",
+      "title": "Delégua",
+      "description": "Delégua é uma variação da Linguagem Égua, patrocinada pela Design Líquido.",
+      "imageSrc": "https://raw.githubusercontent.com/DesignLiquido/delegua/principal/recursos/imagens/icone-delegua.png",
+      "url": "https://github.com/DesignLiquido/delegua"
+    },
+    {
+      "id": "256f4541-a3a9-4a96-8666-6810c2555a05",
+      "title": "Liquido",
+      "description": "Conjunto de ferramentas para desenvolvimento de aplicações para a internet 100% em português.",
+      "imageSrc": "https://cdn-icons-png.flaticon.com/512/4727/4727231.png",
+      "url": "https://github.com/DesignLiquido/liquido"
+    }
+  ],
+  "services": [
+    {
+      "id": "e357ab74-59ca-4de1-b8be-9788b9e8a45c",
+      "title": "Delégua",
+      "description": "Atualmente fazendo contribuições open source para projeto delégua citado a cima."
+    }
+  ],
+  "aboutpara": "Meu nome é Italo Brito Brandão, tenho 18 anos e estou nessa área a cerca de 2 anos. Estudei desenvolvimento web por cerca de 1 ano e meio, atualmente venho estudando e me adentrando aos conhecimento de ciência da computação. Leio alguns livros como o famoso Clean Code e Programação em baixo nível. Meu foco é crescer tanto profissionalmente quanto socialmente, venha fazer um networking comigo e vamos crescer juntos.",
+  "resume": {
+    "tagline": "👋  Eu sou um software engineer.",
+    "description": "Eu entreguei experiências e aprendizado para varias pessoas. Bem versado com React, Javascript e a maioria das estruturas da Web.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Novembro 2022 - Present",
+        "type": "4 horas por dia",
+        "position": "Software Engineer",
+        "bullets": "Implementando novos dialetos."
+      }
+    ],
+    "education": {
+      "universityName": "Alura",
+      "universityDate": "2022-2022",
+      "universityPara": "Aprofundando meus conhecimentos em areas diversas."
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Go",
+      "C/C++",
+      "Lua"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs",
+      "Express",
+      "NestJS",
+      "NextJS"
+    ],
+    "others": [
+      "Visual Code",
+      "Neovim"
+    ]
+  }
+}
